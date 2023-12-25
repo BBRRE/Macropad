@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 37,
+    "active_layer": 0,
     "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -57,6 +57,7 @@
       29,
       30,
       32,
+      33,
       34,
       35,
       36,
@@ -67,7 +68,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "MacroPad.kicad_prl",
+    "filename": "MacroPad V2.kicad_prl",
     "version": 3
   },
   "project": {
