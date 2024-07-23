@@ -13,3 +13,4 @@ Waiting for extra parts.<br>
 Soldering and firmware Completed, Will update the repo soon with a better read me and upload the firmware
 ![image](https://github.com/user-attachments/assets/ba46417f-7e84-4c79-9916-bfb9332cfab0)
 
+V2 design: https://imgur.com/a/PmoHiHx
