@@ -10,4 +10,6 @@
 ![IMG_20240111_212750](https://github.com/BBRRE/Macropad/assets/137724145/9bde51be-57d9-42f7-acd9-30f67d1c728c)
 
 Waiting for extra parts.<br>
-Soldering and firmware soon...
+Soldering and firmware Completed, Will update the repo soon with a better read me
+![image](https://github.com/user-attachments/assets/ba46417f-7e84-4c79-9916-bfb9332cfab0)
+
