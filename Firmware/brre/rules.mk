@@ -1,0 +1,6 @@
+# This file intentionally left blank
+ENCODER_ENABLE = yes
+OLED_ENABLE = yes
+I2C_DRIVER_REQUIRED = yes
+ENCODER_MAP_ENABLE = yes
+PROGRAMMABLE_BUTTON_ENABLE = yes
